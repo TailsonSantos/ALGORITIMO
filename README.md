@@ -1,2 +1,0 @@
-# ALGORITIMO
- exercicios algoritimo
